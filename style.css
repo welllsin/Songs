@@ -1,0 +1,27 @@
+h1 {
+  font-family: cursive;
+  text-align: center;
+
+  color: rgb(0, 0, 0);
+  font-size: 290%;
+  text-shadow: 3px 3px 3px rgba(173, 10, 238, 0.377);
+
+  background-color: rgba(216, 164, 209, 0);
+}
+
+body {
+  background-image: url(https://wallpapercave.com/wp/wp10128252.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  display: grid;
+  justify-content: space-around;
+  align-items: center;
+}
+p {
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-size: 150%;
+  font-family: cursive;
+  text-shadow: 5px 5px 5px rgba(173, 10, 238, 0.377);
+}
